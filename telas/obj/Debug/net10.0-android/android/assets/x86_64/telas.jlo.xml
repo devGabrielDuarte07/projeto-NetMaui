@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc644c5b2bb2981c4c30" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="telas.MainActivity, telas">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc644c5b2bb2981c4c30" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="telas.MainApplication, telas" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="telas" module-name="telas.dll">
+    <type assembly-qualified-name="telas.MainActivity, telas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="telas.MainActivity" java-key="crc644c5b2bb2981c4c30.MainActivity" managed-key="telas.MainActivity" partial-assembly-qualified-name="telas.MainActivity, telas" />
+    <type assembly-qualified-name="telas.MainApplication, telas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="telas.MainApplication" java-key="crc644c5b2bb2981c4c30.MainApplication" managed-key="telas.MainApplication" partial-assembly-qualified-name="telas.MainApplication, telas" />
+  </acw-types>
+</api>

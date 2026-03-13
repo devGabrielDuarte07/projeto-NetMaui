@@ -1,0 +1,12 @@
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\telas.csproj.AssemblyReference.cache
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauiimage.inputs
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauifont.inputs
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauisplash.inputs
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauimanifest.stamp
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.i.cs
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.cs
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlTypeInfo.g.cs
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xaml
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xbf
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlSaveStateFile.xml
+C:\telas\telas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\telas.GeneratedMSBuildEditorConfig.editorconfig

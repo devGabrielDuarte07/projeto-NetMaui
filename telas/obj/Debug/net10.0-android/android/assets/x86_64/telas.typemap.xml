@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="telas" mvid="adf23c75cce04d63a786a42c6203f2d2">
+  <java-to-managed>
+    <entry java-name="crc644c5b2bb2981c4c30/MainActivity" managed-name="telas.MainActivity, telas" managed-type-token-id="33554443" />
+    <entry java-name="crc644c5b2bb2981c4c30/MainApplication" managed-name="telas.MainApplication, telas" managed-type-token-id="33554444" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc644c5b2bb2981c4c30/MainActivity" managed-name="telas.MainActivity, telas" managed-type-token-id="33554443" />
+    <entry java-name="crc644c5b2bb2981c4c30/MainApplication" managed-name="telas.MainApplication, telas" managed-type-token-id="33554444" />
+  </managed-to-java>
+</api>
