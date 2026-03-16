@@ -151,6 +151,7 @@ public class MonoPackageManager_Resources {
 		"Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll",
 		"Microsoft.VisualStudio.DesignTools.TapContract.dll",
 		"Microsoft.VisualStudio.DesignTools.XamlTapContract.dll",
+		"Newtonsoft.Json.dll",
 		"_Microsoft.Android.Resource.Designer.dll",
 	};
 	public static String[] Dependencies = new String[]{

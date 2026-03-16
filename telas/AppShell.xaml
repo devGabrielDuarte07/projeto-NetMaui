@@ -12,4 +12,11 @@
         <ShellContent ContentTemplate="{DataTemplate local:TelaNavegacao}" />
     </FlyoutItem>
 
+    <FlyoutItem Title="Ranking">
+        <ShellContent ContentTemplate="{DataTemplate local:RankingPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="About">
+        <ShellContent ContentTemplate="{DataTemplate local:AboutPage}" />
+    </FlyoutItem>
 </Shell>

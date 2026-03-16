@@ -1,22 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\telas\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\telas\\telas\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\rankingpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\rankingpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\telas\\telas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\rankingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\rankingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\telas\\telas\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\telas\\telas\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\models\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\models\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\models\\participanteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\models\\participanteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\telas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\telas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\loginpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\loginpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|c:\\users\\gabriel\\desktop\\projeto-netmaui\\telas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8178C283-97D1-A030-4419-838304A1BDAF}|telas\\telas.csproj|solutionrelative:telas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,47 +69,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\telas\\telas\\App.xaml.cs",
-              "RelativeDocumentMoniker": "telas\\App.xaml.cs",
-              "ToolTip": "C:\\telas\\telas\\App.xaml.cs",
-              "RelativeToolTip": "telas\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RankingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\RankingPage.xaml.cs",
+              "RelativeDocumentMoniker": "telas\\RankingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\RankingPage.xaml.cs",
+              "RelativeToolTip": "telas\\RankingPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T18:33:25.452Z",
+              "WhenOpened": "2026-03-16T18:20:36.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\telas\\telas\\App.xaml",
-              "RelativeDocumentMoniker": "telas\\App.xaml",
-              "ToolTip": "C:\\telas\\telas\\App.xaml",
-              "RelativeToolTip": "telas\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "RankingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\RankingPage.xaml",
+              "RelativeDocumentMoniker": "telas\\RankingPage.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\RankingPage.xaml",
+              "RelativeToolTip": "telas\\RankingPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T18:33:22.009Z",
+              "WhenOpened": "2026-03-16T18:06:36.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\telas\\telas\\Services\\ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "telas\\Services\\ApiService.cs",
-              "ToolTip": "C:\\telas\\telas\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\Services\\ApiService.cs",
               "RelativeToolTip": "telas\\Services\\ApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T18:19:14.61Z",
               "EditorCaption": ""
@@ -74,15 +113,147 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\telas\\telas\\AppShell.xaml",
-              "RelativeDocumentMoniker": "telas\\AppShell.xaml",
-              "ToolTip": "C:\\telas\\telas\\AppShell.xaml",
-              "RelativeToolTip": "telas\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T18:09:57.069Z",
+              "Title": "Participante.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\Models\\Participante.cs",
+              "RelativeDocumentMoniker": "telas\\Models\\Participante.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\Models\\Participante.cs",
+              "RelativeToolTip": "telas\\Models\\Participante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T18:19:05.802Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "telas\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\AboutPage.xaml",
+              "RelativeToolTip": "telas\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-16T18:06:57.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParticipanteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\Models\\ParticipanteViewModel.cs",
+              "RelativeDocumentMoniker": "telas\\Models\\ParticipanteViewModel.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\Models\\ParticipanteViewModel.cs",
+              "RelativeToolTip": "telas\\Models\\ParticipanteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T18:19:33.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\AppShell.xaml",
+              "RelativeDocumentMoniker": "telas\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\AppShell.xaml",
+              "RelativeToolTip": "telas\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T18:09:57.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "telas\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\AppShell.xaml.cs",
+              "RelativeToolTip": "telas\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T18:11:33.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "telas.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\telas.csproj",
+              "RelativeDocumentMoniker": "telas\\telas.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\telas.csproj",
+              "RelativeToolTip": "telas\\telas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T18:06:00.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "telas\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\LoginPage.xaml.cs",
+              "RelativeToolTip": "telas\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:57:16.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "telas\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\LoginPage.xaml",
+              "RelativeToolTip": "telas\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-16T17:57:12.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "telas\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\AboutPage.xaml.cs",
+              "RelativeToolTip": "telas\\AboutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T18:14:32.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAjwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-16T17:34:04.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\App.xaml.cs",
+              "RelativeDocumentMoniker": "telas\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\App.xaml.cs",
+              "RelativeToolTip": "telas\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T18:33:25.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\App.xaml",
+              "RelativeDocumentMoniker": "telas\\App.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projeto-NetMaui\\telas\\App.xaml",
+              "RelativeToolTip": "telas\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T18:33:22.009Z"
             }
           ]
         }
